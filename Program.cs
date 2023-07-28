@@ -1,5 +1,3 @@
-using System;
-
 namespace CalculoComissao
 {
     class Program
